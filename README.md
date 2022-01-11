@@ -1,1 +1,1 @@
-# IE529-Stats-of-Big-Data-and-Clustering-Project
+# Stats-of-Big-Data-and-Clustering-Project
